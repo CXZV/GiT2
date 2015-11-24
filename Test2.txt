@@ -1,0 +1,14 @@
+program 2;
+
+begin
+writeln('Hello World');
+
+writeln('Hello World');
+
+writeln('Hello World');
+
+writeln('Hello World');
+
+writeln('Hello World');
+
+end.
